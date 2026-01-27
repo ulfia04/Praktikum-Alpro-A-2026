@@ -1,2 +1,2 @@
-\# Repository Matakuliah Algoritma Pemrograman Kelas A 2026
+# Repository Matakuliah Algoritma Pemrograman Kelas A 2026
 
